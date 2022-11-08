@@ -1,7 +1,4 @@
 
-
-https://user-images.githubusercontent.com/110709622/200470313-34c0dd56-4bef-4a20-a9c6-d7c697821b04.mp4
-
 # Node.js Challenge 9: Professional README Generator
 
 ![license](https://img.shields.io/badge/license-GPL-black)
@@ -38,7 +35,7 @@ Run node index.js from the terminal and answer the question prompts.
 
 ![example image](ch9-screens.png)
 
-![example media file](ch9-demo.mp4)
+https://user-images.githubusercontent.com/110709622/200470313-34c0dd56-4bef-4a20-a9c6-d7c697821b04.mp4
 
 ## Credits
 
